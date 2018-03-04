@@ -1,0 +1,49 @@
+{
+  "basics":{
+    "profile":"PROFILE",
+    "name":"DheerajDevatha",
+    "phone":"8639345334",
+    "photo":"img.PNG",
+    "city":"gudivada",
+    "state":"Andhra Pradesh",
+    "email":"dheerajdevatha.44@gmail.com"
+  },
+
+  "education":[
+    {
+      "course":"b.tech(cse)",
+      "college":"Gudlavalleru Engineering college",
+      "data":["2015-2019","7.75","JNTU-K"]
+      },
+      {
+        "course":"Intemediate",
+        "college":"RK Junior college",
+        "data":["2013-2015","88"]
+
+      },
+
+      {
+        "course":"SSC",
+        "school":"Bhashyam Public School",
+        "data":["2012-2013","88"]
+      }],
+    "skills": [
+      {
+        "name":"language known",
+        "info":["c","java","python","c++"]
+      },
+      {
+      "name":"operating system",
+      "info":["ubuntu","windows","fedora"]
+    },
+     {
+     "name":"libraries",
+     "info":["jquery","bootstap"]
+   },
+    {
+    "name":"Data Bases",
+    "info":["Mysql","pl/sql","mysqlite"]
+   }
+
+ ]
+  }
